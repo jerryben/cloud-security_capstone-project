@@ -1,5 +1,7 @@
 # Cloud Security Capstone Projects
 
+![Cloud Security](https://img.shields.io/badge/Cloud-Security-blue?style=flat-square) ![PCI-DSS Compliance](https://img.shields.io/badge/NodeJS-v18+-blueviolet?style=flat-square) ![HIPAA Compliance](https://img.shields.io/badge/OpenJDK-v17+-red?style=flat-square)
+
 This repository hosts key components and procedures from my Cloud Security capstone projects, which include a HIPAA-compliant application deployed on Google Cloud Platform (GCP) and a PCI-DSS-compliant application deployed on Microsoft Azure. The repository serves as a reference for the work I have done and is intended for recruiters, colleagues, and anyone interested in understanding the technical implementation of these compliance-focused projects.
 
 ## Projects Overview
