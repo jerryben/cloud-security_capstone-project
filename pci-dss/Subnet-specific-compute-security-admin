@@ -1,0 +1,19 @@
+Subnet-specific-compute-security-admin
+
+
+{
+  "version": "v1",
+  "bindings": [
+    {
+      "role": "roles/compute.InstanceAdmin.v1",
+      "members": [
+        "group:Frontend-Team"
+      ],
+      "conditions": {
+        "resource.region": ["us-central1"], // Replace with your region
+        "resource.zone": ["us-central1-a"], // Replace with your zone
+        "resource.subnetwork": ["projects/<project-id>/regions/us-central1/subnetworks/frontend_subnet"]
+      }
+    }
+  ]
+}

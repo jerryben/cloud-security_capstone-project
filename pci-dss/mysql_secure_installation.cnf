@@ -1,0 +1,14 @@
+[mysqld]
+user=root
+password=mysql@root13
+
+# Uncomment the following line if you want to allow root access from all machines
+# skip-networking
+
+[mysql_secure_installation]
+# These options will answer all prompts with 'n'
+VALIDATE_PASSWORD=0
+CHANGE_PASSWORD=N
+REMOVE_ANONYMOUS_USER=Y
+REMOVE_TEST_DATABASE=Y
+DISABLE_REMOTE_ROOT_LOGIN=Y
