@@ -84,7 +84,7 @@ Feel free to reach out if you have any questions or need further clarification a
 
 - **Name**: Jeremiah Onwoh
 - **Email**: jerryben@oracodeltd.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jerrybenoc)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/jerrybenoc)
 
 ---
 
