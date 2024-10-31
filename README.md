@@ -1,4 +1,4 @@
-# Cloud Security Capstone Projects
+# Cloud Computing and Security Capstone Projects
 
 ![Cloud Security](https://img.shields.io/badge/Cloud-Security-blue?style=flat-square) ![PCI-DSS Compliance](https://img.shields.io/badge/NodeJS-v18+-blueviolet?style=flat-square) ![HIPAA Compliance](https://img.shields.io/badge/OpenJDK-v17+-red?style=flat-square)
 
