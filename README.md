@@ -6,7 +6,7 @@ This repository hosts key components and procedures from my Cloud Security capst
 
 ## Projects Overview
 
-### 1\. HIPAA-Compliant Application on GCP
+### 1. HIPAA-Compliant Application on GCP
 
 - **Objective**: Ensure compliance with HIPAA standards for protecting healthcare data.
 - **Architecture**: Deployed using a 3-tier architecture.
@@ -37,7 +37,8 @@ This repository hosts key components and procedures from my Cloud Security capst
 ## Repository Structure
 
 ```
-.
+CapstoneProject
+│
 ├── HIPAA-GCP
 │   ├── provisioning-scripts
 │   │   ├── hms_frontend_setup.sh      # Bootstrapping Script frontend application VM on GCP
