@@ -40,19 +40,22 @@ This repository hosts key components and procedures from my Cloud Security capst
 .
 ├── HIPAA-GCP
 │   ├── provisioning-scripts
-│   │   ├── vm-setup.sh                 # Script for VM provisioning and setup on GCP
-│   │   ├── firewall-config.sh          # Script to configure firewalls for secure access
-│   └── app
-│       ├── src                         # Source code of the deployed healthcare application
-│       └── README.md                   # Documentation specific to the HIPAA project
+│   │   ├── hms_frontend_setup.sh      # Bootstrapping Script frontend application VM on GCP
+│   │   └── hms_backend_setup.sh       # Bootstrapping Script backend application VM on GCP
+│   ├── hms-frontend                   # Source code of the deployed healthcare application(frontend)
+│   ├── hms-backend                    # Source code of the deployed healthcare application(backend)
+│   └── HIPAA.png                      # Schematic diagram of the HIPAA project structure
 │
 ├── PCI-DSS-Azure
 │   ├── provisioning-scripts
-│   │   ├── vm-setup.sh                 # Script for VM provisioning and setup on Azure
-│   │   ├── security-config.sh          # Script to enforce security measures
-│   └── app
-│       ├── src                         # Source code of the deployed payment application
-│       └── README.md                   # Documentation specific to the PCI-DSS project
+│   │   ├── frontend_setup.sh          # Bootstrapping Script backend application VM on Azure
+│   │   ├── backend_setup.sh           # Bootstrapping Script frontend application VM on Azure
+│   │   └── database_setup.sh          # Bootstrapping Script database VM on Azure
+│   ├── bank-frontend                  # Source code of the deployed payment application(frontend)
+│   ├── bank-backend                   # Source code of the deployed payment application(backend)
+│   ├── PCI-DSS-Azure.png              # Schematic diagram of the PCI-DSS project structure
+│   ├── mysql_secure_installation.cnf
+│   └── Subnet-specific-compute-security-admin.json
 │
 └── README.md                           # General documentation for the repository
 ```
