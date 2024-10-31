@@ -89,7 +89,7 @@ CapstoneProject
 Feel free to reach out if you have any questions or need further clarification about these projects.
 
 - **Name**: Jeremiah Onwoh
-- **Email**: jerryben@oracodeltd.com
+- **Email**: onwohjeremiah@gmail.com, jerryben@oracodeltd.com
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/jerrybenoc)
 
 ---
